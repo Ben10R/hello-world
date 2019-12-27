@@ -1,2 +1,3 @@
 # hello-world
-Juste un autre dépot
+
+Hi humans juste discovering Git, I like Java and Python
